@@ -5,5 +5,5 @@
 - 📫 You can reach me in pedromoutinholima@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromouto)](https://github.com/pedromouto/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromouto)](https://github.com/pedromouto/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromouto&theme=radical)](https://github.com/pedromouto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromouto&theme=radical)](https://github.com/pedromouto/github-readme-stats)
