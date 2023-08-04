@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pedro Moutinho, born in Rio de Janeiro/Brazil and currently living in São Paulo
+- 👀 I’m interested in front-end development, product management and video games
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 💞️ I’m looking to collaborate on any projects related to front-end development
+- 📫 You can reach me in pedromoutinholima@gmail.com
